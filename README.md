@@ -1,4 +1,3 @@
-# web-server-api
+# WebServer + RestServer
 
-## CRUD completo de usuarios, con sus validaciones
-## Se establece el uso del JWT, para la autentificación de los usuarios
+Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
